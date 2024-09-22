@@ -27,7 +27,7 @@
 		logoAlt = 'onepunchmanworld/à¸§à¸±à¸™à¸žà¸±à¸™à¸Šà¹Œà¹à¸¡à¸™/à¹€à¸à¸¡/à¹à¸­à¸„à¸Šà¸±à¹ˆà¸™/à¹„à¸‹à¸•à¸²à¸¡à¸°/à¸ˆà¸±à¸¡à¸›à¹Œ/à¸­à¸™à¸´à¹€à¸¡à¸°';
 	}
 	var topbarStr = '<div class="universal_topbar '+topBarClass+'">\
-		<a href="https://opmw.perfectworld.com/en/home.html"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP2FAguPPqDP0xDtl8khJB-zWjkycTgE1DQmHFQILCZcwuxcFSqTVsIG3xdsoZ54WXQpp8epQROSjf7sDl2QkkzkXjCmn_xBI0i9m2IsZIPOivQj3FIDjmEXAg2SQ07cPQoOXxRPtbvWcquIwBIYq4JEMd7nqORHwfh7jOtPdDI2UDN7zk-GlQ-OGlhsxv/s1600/logo.png" alt="'+logoAlt+'" class="top_logo"></a>\
+		<a href="https://team-pcx.blogspot.com"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP2FAguPPqDP0xDtl8khJB-zWjkycTgE1DQmHFQILCZcwuxcFSqTVsIG3xdsoZ54WXQpp8epQROSjf7sDl2QkkzkXjCmn_xBI0i9m2IsZIPOivQj3FIDjmEXAg2SQ07cPQoOXxRPtbvWcquIwBIYq4JEMd7nqORHwfh7jOtPdDI2UDN7zk-GlQ-OGlhsxv/s1600/logo.png" alt="'+logoAlt+'" class="top_logo"></a>\
 		<div class="topbar_cont">\
 			<ul class="topbar_nav">\
 				<li class="publicGoogleAnalytics" type="Home_default_click" barnav="home">'+homeText+'<span></span></li>\
